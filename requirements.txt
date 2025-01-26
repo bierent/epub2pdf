@@ -1,0 +1,4 @@
+ebooklib>=0.17.1
+reportlab>=4.0.4
+beautifulsoup4>=4.12.2
+html2text>=2020.1.16
